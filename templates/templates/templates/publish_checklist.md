@@ -1,0 +1,5 @@
+- [ ] All dates in ISO format (YYYY-MM-DD)  
+- [ ] Every row has a source link  
+- [ ] `README.md` has 3-bullet summary  
+- [ ] `data.csv` + `timeline.png` uploaded  
+- [ ] Opened Issue: “Challenge my correlation”
