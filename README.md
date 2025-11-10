@@ -1,7 +1,7 @@
 # uvb-76-analysis-
 UVB-76 signal correlation analysis + open research method
 # UVB-76 Signal Correlation Analysis  
-*By [Your Name] | November 2025*
+*By [Leerrooy95] | November 2025*
 
 > **TL;DR** – 7 voice messages on 4625 kHz aligned within 6 hours of major Russian military/diplomatic events (2010–2025).  
 > **p < 0.01 vs random.** Not conclusive — just suggestive.  
@@ -36,3 +36,6 @@ The same 5 steps in `RESEARCH_METHODOLOGY.pdf` work for:
 - Anything with dates and observations
 
 *No expertise required. Just curiosity and a timeline.*
+[Research-Without-Trust-A-Reproducible-Playbook.pdf](https://github.com/user-attachments/files/23444776/Research-Without-Trust-A-Reproducible-Playbook.pdf)
+
+
