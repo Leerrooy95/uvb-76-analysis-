@@ -1,6 +1,20 @@
 # uvb-76-analysis-
 
 https://github.com/Leerrooy95/UVB-76-Structured-Signal-Analysis/tree/main
+[![UVB-76](https://img.shields.io/badge/UVB--76-4625kHz-red)](https://en.wikipedia.org/wiki/UVB-76) [![Template](https://img.shields.io/badge/Template-Forkable-blue)](https://github.com/Leerrooy95/UVB-76-analysis/generate)
+
+**TL;DR**: 7 messages aligned within 6 hours of events (p < 0.01). Reproducible for any timeline.
+
+**[Use this template →](https://github.com/Leerrooy95/UVB-76-analysis/generate)** (5 steps: Collect → Align → Test → Visualize → Generalize).
+
+## Files
+- `templates/`: CSVs for logs/events
+- `correlation.ipynb`: Run the stats
+- `RESEARCH_METHODOLOGY.pdf`: Full playbook
+
+**Full Dataset & Clustering**: [UVB-76-Structured-Signal-Analysis](https://github.com/Leerrooy95/UVB-76-Structured-Signal-Analysis)
+
+*Sources: Public/timestamped | Nov 2025*
 
 UVB-76 signal correlation analysis + open research method
 # UVB-76 Signal Correlation Analysis  
