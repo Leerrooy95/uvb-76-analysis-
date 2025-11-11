@@ -1,4 +1,7 @@
 # uvb-76-analysis-
+
+https://github.com/Leerrooy95/UVB-76-Structured-Signal-Analysis/tree/main
+
 UVB-76 signal correlation analysis + open research method
 # UVB-76 Signal Correlation Analysis  
 *By [Leerrooy95] | November 2025*
@@ -37,5 +40,3 @@ The same 5 steps in `RESEARCH_METHODOLOGY.pdf` work for:
 
 *No expertise required. Just curiosity and a timeline.*
 [Research-Without-Trust-A-Reproducible-Playbook.pdf](https://github.com/user-attachments/files/23444776/Research-Without-Trust-A-Reproducible-Playbook.pdf)
-
-https://github.com/Leerrooy95/UVB-76-Structured-Signal-Analysis
