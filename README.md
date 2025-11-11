@@ -38,4 +38,4 @@ The same 5 steps in `RESEARCH_METHODOLOGY.pdf` work for:
 *No expertise required. Just curiosity and a timeline.*
 [Research-Without-Trust-A-Reproducible-Playbook.pdf](https://github.com/user-attachments/files/23444776/Research-Without-Trust-A-Reproducible-Playbook.pdf)
 
-
+https://github.com/Leerrooy95/UVB-76-Structured-Signal-Analysis
